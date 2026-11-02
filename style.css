@@ -1,1 +1,19 @@
+body { 
+    background: #FFF5F6;
+    
+    font-family: sans-serif;
 
+    text: black;
+}
+
+a {
+    color: black;
+   
+    font-weight: bolder;
+}
+
+#heading {
+    text: rgb(255, 111, 219) 
+
+
+}
